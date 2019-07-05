@@ -1,0 +1,8 @@
+  
+Pkg update && pkg upgrade
+Pkg install phithon2
+Pkg install php
+Pkg install git
+Pkg git clone https://@github.com:Arva3177/arva.git
+cd Arva3
+Sh Arva3.sh
