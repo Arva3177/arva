@@ -1,4 +1,4 @@
-Pkg update && upgrade
+Pkg update && pkg upgrade
 Pkg install phithon2
 Pkg install php
 Pkg install git
